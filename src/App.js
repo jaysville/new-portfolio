@@ -42,7 +42,6 @@ function App() {
 }
 
 const Style = styled.div`
-  background-color: black;
   padding: 10px 50px;
   @media (max-width: 600px) {
     padding: 10px 35px;
