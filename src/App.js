@@ -42,7 +42,7 @@ function App() {
 }
 
 const Style = styled.div`
-  padding: 20px 30px;
+  padding: 10px 20px;
   @media (max-width: 600px) {
     padding: 10px 35px;
   }
