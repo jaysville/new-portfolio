@@ -26,14 +26,13 @@ const Style = styled.section`
     display: flex;
   }
   .projects {
-    display: grid;
-
-    grid-template-columns: repeat(3, 1fr);
-    @media (max-width: 1100px) {
+    @media (max-width: 935px) {
+      display: grid;
+      /* place-items: center; */
       grid-template-columns: repeat(2, 1fr);
-      place-items: center;
+      gap: 20px;
     }
-    @media (max-width: 780px) {
+    @media (max-width: 845px) {
       grid-template-columns: repeat(1, 1fr);
       place-items: center;
     }

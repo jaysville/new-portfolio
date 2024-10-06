@@ -1,7 +1,7 @@
 export const ProjectData = [
   {
     title: "Twitter Clone",
-    desc: "A comprehensive Twitter clone web application built using ReactJS and NodeJS. This app includes a full suite of features such as liking posts, following users, reposting content, and receiving notifications. It offers a seamless user experience with real-time updates and a responsive design, ensuring accessibility across various devices.",
+    desc: "A comprehensive Twitter clone web application built using ReactJS and NodeJS. ",
     images: [
       "../../assets/tc1.png",
       "../../assets/tc2.png",
@@ -12,8 +12,21 @@ export const ProjectData = [
     live: "https://jays-twitter-clone.vercel.app/",
   },
   {
+    title: "Rebirth Island",
+    desc: "A fullstack e-commerce web app built with MERN stack",
+    images: [
+      "../../assets/rb1.png",
+      "../../assets/rb2.png",
+      "../../assets/rb3.png",
+      "../../assets/rb4.png",
+      "../../assets/rb5.png",
+    ],
+    repo: "https://github.com/jaysville/rebirth-island",
+    live: "https://www.rebirthisland.store/",
+  },
+  {
     title: "Movie Streaming App",
-    desc: "A dummy movie streaming application developed using React. This app simulates a movie streaming platform, showcasing features such as browsing movies, viewing details, and more.",
+    desc: "A dummy movie streaming application developed using React.",
     images: [
       "../../assets/es1.png",
       "../../assets/es2.png",

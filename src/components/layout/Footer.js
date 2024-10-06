@@ -32,7 +32,7 @@ const Style = styled.footer`
   }
   svg {
     color: #00f7ff;
-    transform: scale(1.3) translateX(-10px) translateY(1px);
+    transform: scale(1.3) translateX(-10px) translateY(-1px);
   }
 
   .title {
