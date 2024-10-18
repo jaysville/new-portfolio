@@ -38,6 +38,13 @@ const Style = styled.section`
 
 const ArticleLinks = [
   {
+    title: "A Comprehensive Guide to Uploading Images with React and Node.js.",
+    subtext: "A step by Step Tutorial.",
+    link: "https://medium.com/stackademic/uploading-images-with-react-and-node-js-a-comprehensive-guide-980afda115ba",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*eCor6PVI8lQTiI_XXl3xhQ.png",
+  },
+  {
     title:
       "React.js Tutorial: How to Build a Simple Rock, Paper, Scissors Game.",
     subtext: "Building game from scratch with React.",
