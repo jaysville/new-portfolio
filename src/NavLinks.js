@@ -1,5 +1,10 @@
 const NAVLINKS = [
   {
+    title: "Resume",
+    link: "https://drive.google.com/file/d/12kILRbzNHmeaOyW5NN4WZAf39_WrZ2tE/view?usp=sharing",
+  },
+
+  {
     title: "About",
     link: "#about",
   },
