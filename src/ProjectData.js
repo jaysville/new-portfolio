@@ -1,5 +1,20 @@
 export const ProjectData = [
   {
+    title: "Healthcare Global Institute",
+    desc: "A Medical School Website.",
+    images: [
+      "../../assets/hg1.png",
+      "../../assets/hg2.png",
+      "../../assets/hg3.png",
+      "../../assets/hg4.png",
+      "../../assets/hg5.png",
+      "../../assets/hg6.png",
+    ],
+    repo: "/",
+    live: "https://www.healthcareglobalinstitute.com/",
+  },
+
+  {
     title: "Twitter Clone",
     desc: "A comprehensive Twitter clone web application built using ReactJS and NodeJS. ",
     images: [
