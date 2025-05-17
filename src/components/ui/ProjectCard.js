@@ -25,9 +25,11 @@ const ProjectCard = ({ project }) => {
           <a href={live} className="btn btn-primary">
             View Live
           </a>
-          <a href={repo} className="btn btn-secondary">
-            <GitHub />
-          </a>
+          {repo !== "/" && (
+            <a href={repo} className="btn btn-secondary">
+              <GitHub />
+            </a>
+          )}
         </div>
       </div>
     </Style>
