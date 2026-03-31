@@ -4,7 +4,7 @@ const ArticleCard = ({ title, subtext, link, image }) => {
   return (
     <Style>
       <div className="img-container">
-        <img src={image} />
+        <img src={image} alt={title} />
       </div>
       <div className="content">
         <h4>{title}</h4>
