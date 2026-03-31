@@ -32,8 +32,8 @@ const Skills = () => {
               <span className="title">Back-End</span>
             </div>
             <p>
-              NodeJs,<span> Express Js</span> , SQL, <br />{" "}
-              <span>Mongo DB</span> , and <span>Graph QL</span>{" "}
+              NodeJs, <span> Python</span> , SQL, <br /> <span>Mongo DB</span> ,
+              and <span>Graph QL</span>{" "}
             </p>
           </div>
         </div>

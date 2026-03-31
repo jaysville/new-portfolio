@@ -12,7 +12,8 @@ const Landing = () => {
           Hello, I'm <span style={{ color: " #00f7ff" }}>Joshua</span> ,
         </span>
         <h2>
-          A <span>Fullstack</span> Web Developer <br /> <span>&&</span> <br />
+          A <span>Fullstack</span> Software Engineer <br /> <span>&&</span>{" "}
+          <br />
           Technical <span>Writer</span> .
         </h2>
         <ul className="socials-link ">
